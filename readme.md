@@ -60,6 +60,6 @@ Validation was checked using regular expression
 
 #### Success
 
-When all the fields meet the necessary requirements
+When all the fields meet the necessary requirements, you see green color in the border of the box.
 
 ![Success](ScreenShot/Image8.png)
