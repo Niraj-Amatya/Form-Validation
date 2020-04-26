@@ -1,5 +1,9 @@
 # Project: Form Validator
 
+Github Page : https://niraj-amatya.github.io/Form-Validation/
+
+Github: https://github.com/Niraj-Amatya
+
 ### Project Introduction
 
 This is a simple client side form validation. It checks if the fields are filled, username and passwords meets the length specification and password passes the validation and email is valid.
