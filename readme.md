@@ -62,4 +62,4 @@ Validation was checked using regular expression
 
 When all the fields meet the necessary requirements, you see green color in the border of the box.
 
-![Success](ScreenShot/Image8.png)
+![Success](Screenshot/Image8.png)
